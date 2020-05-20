@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRZqagk9qsMK72pwaQlIcOZu/HT8PyJUh2zq6Qv557Cs1zXlV0cJ+tQ7TjUj7ZksK7Iiy2N/3HLhZzDLq9iIwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\9527\\Desktop\\code\\webSocket\\WebSocketDemo\\WebSocketDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9527\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\9527\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
